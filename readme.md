@@ -17,4 +17,6 @@ Considere todos os itens estudados em laboratório:
 
 ## Links uteis
 
+[Atividade - PDF](Projeto%20Reembolso.pdf)
+
 [Figma](https://www.figma.com/design/z8kO5MjL5vwgoqy7RV5lFs/Projeto---Sistema-de-reembolso?node-id=3-376&p=f&t=KEVyjrFhezUxFy12-0)
